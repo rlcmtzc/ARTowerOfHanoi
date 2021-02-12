@@ -25,7 +25,9 @@ In Unity your workspace should look like in the following Image:
 
 # Result:
 Play with the Virtual Buttons:
+
 ![workspace](images/hand_demo.gif)
 
 Play with the mouse and raycasting:
+
 ![workspace](images/mouse_demo.gif)A
